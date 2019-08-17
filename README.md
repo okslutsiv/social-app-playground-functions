@@ -21,3 +21,6 @@
 [Live](https://social-app-cc043.web.app/)
 
 ![picture alt](screenshot.png "screenshot")
+
+thanks [Full Stack React & Firebase Tutorial - Build a social media app](https://youtu.be/m_u6P5k0vP0)
+for the idea and the roadmap 
